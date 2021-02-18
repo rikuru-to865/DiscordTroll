@@ -1,0 +1,9 @@
+D:\DiscordOxO\DiscordOxO\bin\Debug\DiscordOxO.exe.config
+D:\DiscordOxO\DiscordOxO\bin\Debug\DiscordOxO.exe
+D:\DiscordOxO\DiscordOxO\bin\Debug\DiscordOxO.pdb
+D:\DiscordOxO\DiscordOxO\obj\Debug\DiscordOxO.csprojAssemblyReference.cache
+D:\DiscordOxO\DiscordOxO\obj\Debug\DiscordOxO.csproj.CoreCompileInputs.cache
+D:\DiscordOxO\DiscordOxO\obj\Debug\DiscordOxO.exe
+D:\DiscordOxO\DiscordOxO\obj\Debug\DiscordOxO.pdb
+D:\DiscordOxO\DiscordOxO\bin\Debug\Colorful.Console.dll
+D:\DiscordOxO\DiscordOxO\obj\Debug\DiscordOxO.csproj.CopyComplete
